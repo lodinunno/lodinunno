@@ -1,5 +1,5 @@
 # About me:
-👨‍💻 Software developer with a passion for automation, efficiency, and creative problem-solving. Combining a strong background in Computer Science with hands-on experience in intralogistics automation. Curious by nature, always learning and exploring—whether it’s a new programming language, a mountain to climb, or a road to ride.
+👨‍💻 Software developer with a passion for automation, efficiency, and creative problem-solving. Combining a strong background in Computer Science with hands-on experience in intralogistics automation. Curious by nature, always learning and exploring<br> whether it’s a new programming language, a mountain to climb, or a road to ride.
 <br>🎓 Degree in Computer Science  <br>🚀 Passionate about coding <br>🐧 Linux user<br>🤖 Working in intralogistics automation <br>💻 App developer (just for fun)<br>🧗‍♂️ Rock climbing enthusiast <br>🏍️ motorcycle touring
 ---
 ## 🌐 Socials:
