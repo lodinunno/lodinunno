@@ -1,5 +1,6 @@
-# 💫 About Me:
-🚀 Passionate about programming paradigms and languages<br>🐧 Linux user<br>🤖 Working in intralogistics automation <br>💻 App developer (just for fun)<br>🧗‍♂️ Rock climbing enthusiast <br>🏍️ motorcycle touring
+# About me:
+👨‍💻 Software developer with a passion for automation, efficiency, and creative problem-solving. Combining a strong background in Computer Science with hands-on experience in intralogistics automation. Curious by nature, always learning and exploring—whether it’s a new programming language, a mountain to climb, or a road to ride.
+<br>🎓 Degree in Computer Science  <br>🚀 Passionate about coding <br>🐧 Linux user<br>🤖 Working in intralogistics automation <br>💻 App developer (just for fun)<br>🧗‍♂️ Rock climbing enthusiast <br>🏍️ motorcycle touring
 ---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lo.dinunno) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
